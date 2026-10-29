@@ -13,6 +13,8 @@
 🤖 I use Generative AI in every project I build<br>
 🌱 Currently learning: **Python, from the basics to advanced**<br>
 
+<a href="https://www.linkedin.com/in/nazar-mohammad-momand-8003812b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+
 ### 🗺️ My learning path
 
 | Phase | Topic | Status |
