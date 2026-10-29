@@ -41,7 +41,7 @@
 ### 📊 GitHub stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Momand-Git&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Momand-Git&theme=tokyonight&hide_border=true" alt="GitHub stats" />
 </p>
 
 ### 💭 Dev Quote
